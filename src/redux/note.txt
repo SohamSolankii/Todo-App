@@ -1,0 +1,15 @@
+add todo will teach -> how to send data into the store   (useDispatch)
+remove todo / list of todo will teach -> how to get data from the   (useSelector)
+
+
+useSelector -> to get the data from the store
+useDispatch -> to send the data into the store
+
+
+store
+		reducers
+
+useSelector      useDispatch
+
+
+dispatch: by use of reducers make changes into store
